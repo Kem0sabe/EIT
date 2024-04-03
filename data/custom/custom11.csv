@@ -1,10 +1,16 @@
 route_short_name,direction_id,shape_pt_lat,shape_pt_lon,shape_dist_traveled,route_long_name
-VM11,0,63.387862,10.330256,1500.0,Blakli- Sentrum- Stavset
-VM11,0,63.387603,10.329224,1500.0,Blakli- Sentrum- Stavset
-VM11,0,63.387664,10.329000,1500.0,Blakli- Sentrum- Stavset
+VM11,0,63.388258,10.328023,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387903,10.328342,14977.0,Blakli- Sentrum- Stavset
 VM11,0,63.387633,10.328676,14977.0,Blakli- Sentrum- Stavset
-VM11,0,63.387903,10.328372,1554.0,Blakli- Sentrum- Stavset
-VM11,0,63.388258,10.328053,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387510,10.328612,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387400,10.328757,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387388,10.329036,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387445,10.329247,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387603,10.329224,1500.0,Blakli- Sentrum- Stavset
+VM11,0,63.387660,10.329000,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387643,10.328699,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.387903,10.328399,14977.0,Blakli- Sentrum- Stavset
+VM11,0,63.388258,10.328083,14977.0,Blakli- Sentrum- Stavset
 VM11,0,63.388459,10.32795,14954.0,Blakli- Sentrum- Stavset
 VM11,0,63.388832,10.327896,14913.0,Blakli- Sentrum- Stavset
 VM11,0,63.389339,10.328143,1719.0,Blakli- Sentrum- Stavset
@@ -614,12 +620,4 @@ VM11,1,63.389271,10.328084,14863.0,Blakli- Sentrum- Stavset
 VM11,1,63.389094,10.327973,14883.0,Blakli- Sentrum- Stavset
 VM11,1,63.388832,10.327896,14913.0,Blakli- Sentrum- Stavset
 VM11,1,63.388459,10.32795,14954.0,Blakli- Sentrum- Stavset
-VM11,1,63.388258,10.328053,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387903,10.328372,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387633,10.328676,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387510,10.328612,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387400,10.328757,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387388,10.329036,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387445,10.329247,14977.0,Blakli- Sentrum- Stavset
-VM11,1,63.387603,10.329224,1500.0,Blakli- Sentrum- Stavset
-VM11,1,63.387772,10.330304,14977.0,Blakli- Sentrum- Stavset
+VM11,1,63.388258,10.328023,14977.0,Blakli- Sentrum- Stavset
